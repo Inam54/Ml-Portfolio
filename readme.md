@@ -22,8 +22,9 @@ Predict whether an individual's income exceeds $50K per year using Logistic Regr
 
 ## 🛠 Tech Stack
 - Python  
-- pandas, NumPy  
-- scikit-learn  
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn  
 
 ---
 
