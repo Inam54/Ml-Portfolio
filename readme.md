@@ -14,19 +14,19 @@ Includes data preprocessing, feature scaling, and encoding.
 Predict students' average scores using **Decision Tree** and **Random Forest Regressors**.  
 Includes one-hot encoding, scaling, and feature importance analysis.
 
-### 3️⃣ [Customer Churn Prediction (Classification)](https://github.com/Inam54/Customer-Churn-Prediction)
+### 3️⃣ [Customer Churn Prediction (Classification)](https://github.com/Inam54/House-Price-Prediction)
 Predict whether a customer will churn using **Decision Tree** and **Random Forest Classifiers**.  
 Includes handling categorical data, scaling, and imbalanced datasets.
 
-### 4️⃣ [Income Prediction System (Classification)](https://github.com/Inam54/Income-Prediction)
+### 4️⃣ [Income Prediction System (Classification)](https://github.com/Inam54/Adult-Income-Prediction)
 Predict whether an individual's income exceeds $50K per year using **Logistic Regression**.  
 Includes OOP pipeline, encoding, and scaling.
 
-### 5️⃣ [BMW Sales Classification (Classification)](https://github.com/Inam54/BMW-Sales-Classification)
+### 5️⃣ [BMW Sales Classification (Classification)](https://github.com/Inam54/BMW-Sales-Prediction)
 Predict whether BMW sales are **high or low** using **Logistic Regression**, **Decision Tree**, and **Random Forest Classifiers**.  
 Includes OOP pipeline, one-hot encoding, scaling, and handling imbalanced datasets.
 
-### 6️⃣ [AI Salary Prediction (Regression)](https://github.com/Inam54/AI-Salary-Prediction)
+### 6️⃣ [AI Salary Prediction (Regression)](https://github.com/Inam54/AI-Jobs-Salary-Prediction)
 Predict **AI/ML job salaries** using **Linear Regression**, **SVM**, **Decision Tree**, and **Random Forest Regressors**.  
 Includes:  
 - Preprocessing pipelines with **scaling**, **ordinal/one-hot encoding**, and **log-transform** for skewed features  
