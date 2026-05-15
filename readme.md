@@ -26,16 +26,7 @@ Includes OOP pipeline, encoding, and scaling.
 Predict whether BMW sales are **high or low** using **Logistic Regression**, **Decision Tree**, and **Random Forest Classifiers**.
 Includes OOP pipeline, one-hot encoding, scaling, and handling imbalanced datasets.
 
-### 6️⃣ [AI Salary Prediction (Regression)](https://github.com/Inam54/AI-Jobs-Salary-Prediction)
-Predict **AI/ML job salaries** using **Linear Regression**, **SVM**, **Decision Tree**, and **Random Forest Regressors**.
-Includes:
-- Preprocessing pipelines with **scaling**, **ordinal/one-hot encoding**, and **log-transform** for skewed features
-- **Train/test splitting** and pipeline-based modeling
-- Hyperparameter tuning using **GridSearchCV** and **RandomizedSearchCV**
-- **Model evaluation metrics**: MAE, MSE, RMSE, R²
-- **Comparison of models** before and after tuning
-
-### 7️⃣ [AI Salary Prediction System — Capstone Project 1 (Regression)](https://github.com/Inam54/Capstone-Project-1-AI-Salary-Predictor)
+### 6️⃣ [AI Salary Prediction System — Capstone Project 1 (Regression)](https://github.com/Inam54/Capstone-Project-1-AI-Salary-Predictor)
 A full **end-to-end ML application** that predicts AI job salaries based on 23 features including job role, experience level, country, industry, and economic indicators.
 Includes:
 - Complete **ML pipeline** with preprocessing, training, tuning, and automatic best model selection
